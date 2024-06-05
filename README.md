@@ -1,6 +1,6 @@
 # Reparar-APT
 
-ShellScript para reparar o APTttt
+ShellScript para reparar o APT
 
 ```
 #!/bin/bash
